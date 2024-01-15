@@ -1,0 +1,30 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "example of ecommerce app",
+  "main": "./backend/src/index.ts",
+  "devDependencies": {
+    "husky": "^8.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szczyppka/ecommerce.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "application",
+    "react",
+    "node",
+    "express",
+    "redux"
+  ],
+  "author": "Piotr Szczypka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/szczyppka/ecommerce/issues"
+  },
+  "homepage": "https://github.com/szczyppka/ecommerce#readme"
+}

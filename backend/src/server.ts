@@ -1,9 +1,6 @@
 require('dotenv').config();
 const app = require('.');
 
-
-
-
 /*
   ===============================================================
  Importing the port set on the .env, if the port number is not set on .env or the port is being used by another server
